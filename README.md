@@ -48,7 +48,6 @@ EduSphere/
 3. Explore the platform’s sections: **Courses**, **Testimonials**, **Pricing**, **Contact**
 4. Buttons smoothly navigate between sections  
 
-> ⚠️ Note: Contact form submission is disabled (demo only)
 
 ---
 
@@ -69,16 +68,6 @@ EduSphere/
 
 ---
 
-## 🎨 Customization Tips
-
-- Edit theme using `:root` CSS variables
-- Duplicate `.course-card` to add new courses
-- Replace testimonial text/images as needed
-- Connect the form to backend services:  
-  → *PHP, Node.js, Firebase, Appwrite*
-
----
-
 ## 🙌 Credits
 
 - Images → **Pexels**
@@ -90,7 +79,7 @@ EduSphere/
 ## 👨‍💻 Author
 
 **Designed & Developed by:**  
-***Kunal*** — BCA (AI & DS) Student  
+***Kunal Lohia*** — BCA (AI & DS) Student  
 KR Mangalam University  
 
 If you like this project, consider giving it a ⭐ on GitHub! 😊  
